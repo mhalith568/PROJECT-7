@@ -180,10 +180,9 @@ Advanced statistical testing and predictive modeling
 
 👤 Author
 
-Mohamed Halith
+MOHAMED HALITH 
+
 Bachelor of Computer Applications (BCA)
+
 Aspiring Data Analyst
 
-If you want, I can now:
-
-tailor this README for ATS / re
